@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+    background-color: #eaeaea;
+}
+
+
+.img_producto{
+    width: 350px;
+    height: 300px;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 0 8px 5px rgb(184, 181, 181);
+}
+
+.lista_productos{
+    display: inline-block;
+    margin-right: 8rem;
+    align-items: center;
+}
+
+.links_productos{
+    text-decoration: none;
+    font-size: 1.2rem;
+    border-radius: 1.125rem;
+    border: none;
+    color: #373737;    
+    font-weight: 25rem;    
+    padding-left: 1.2rem;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    padding-right: 1.2rem;
+    margin: 5px;    
+}
+
+.links_productos:hover{
+    background: #e0d8d8;
+    color: black;
+}
+
