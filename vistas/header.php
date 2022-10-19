@@ -26,6 +26,9 @@
                         <a class="nav-link text-light" href="./productos.php">Productos</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link text-light" href="./servicios.php">Servicios</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link text-light" href="./contacto.php">Contacto</a>
                     </li>
                 </ul>

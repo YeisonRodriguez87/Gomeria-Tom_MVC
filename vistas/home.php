@@ -1,8 +1,6 @@
 <?php
 include("header.php");
 ?>
-
-
 <main class="container mt-5">
     <h1 class="text-center mb-4">Bienvenidos a Gomería Tom!!!</h1>
     <section>
@@ -32,8 +30,6 @@ include("header.php");
         </div>
     </section>
 </main>
-
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
-
 </html>
