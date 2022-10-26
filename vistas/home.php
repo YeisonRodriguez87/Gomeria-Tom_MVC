@@ -4,7 +4,7 @@ include("header.php");
 <main class="container mt-5">
     <h1 class="text-center mb-4">Bienvenidos a Gomería Tom!!!</h1>
     <section>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sequi, necessitatibus voluptate pariatur modi excepturi accusamus asperiores inventore eligendi dolorum harum voluptates qui eos explicabo. Magni inventore esse fuga perferendis.lor Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem totam vero quas quis at praesentium velit, sed ut ipsum! Sunt a eaque alias nihil ex impedit sapiente nesciunt quasi necessitatibus?</p>
+        <p>Somos una empresa familiar con ya una década de experiencia en el rubro automotriz, siempre haciendo que nuestros clientes se sientan a gusto con los servicios que les prestamos y los accesorios que les vendemos para la mayor durabilidad de sus autos. <br><br>Nos encontramos en la localidad de San Martín, provincia de Buenos Aires, si tienen alguna consulta, duda o sugerencia, no dude en contactarnos en nuestra sección de contacto.</p>
     </section>
     <section>
         <div id="carouselExampleInterval" class="carousel slide mb-4" data-bs-ride="carousel">
@@ -32,4 +32,5 @@ include("header.php");
 </main>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
+
 </html>
