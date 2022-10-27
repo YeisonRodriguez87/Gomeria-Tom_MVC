@@ -13,14 +13,15 @@ __Home__- Contiene:
 - [ ] Carrusel con fotos alusivas al sitio y negocio físico.
 
 __Sección Productos__- Contiene:
-- [ ] Los campos mostrados en la ruta principal para cada gato (imagen, nombre, edad, sexo y ciudad)
-- [ ] Descripción.
+- [ ] Cuenta con tres links tipo menú que nos lleva a ver detalles de cada producto (amortiguador, batería y neumático)
+- [ ] Descripción de cada producto y/o accesorio.
 
 __Sección Servicios__- Contiene:
-- [ ] Botón/Opción para postear un nuevo gato.
+- [ ] Cuenta con dos links tipo menú que nos lleva a ver detalles de cada servicio (alineación y balanceo).
+- [ ] Descripción de cada servicio.
 
 __Sección Contacto__- Contiene:
-- [ ] Botón/Opción para postear un nuevo gato.
+- [ ] Formulario de contacto en el cual podemos enviar mensajes, consultas y/o sugerencias a la empresa (gomería).
 
 
 #### Tecnologías usadas:
