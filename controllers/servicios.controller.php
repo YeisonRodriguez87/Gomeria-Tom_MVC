@@ -3,7 +3,7 @@
 class ControladorServicios{
     public function getServicios()
     {
-        include "./vistas/servicios.php";
+        include "./views/servicios.php";
     }
 }
 ?>

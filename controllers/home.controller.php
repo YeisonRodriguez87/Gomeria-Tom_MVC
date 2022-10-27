@@ -3,7 +3,7 @@
 class ControladorHome{
     public function getHome()
     {
-        include "./vistas/home.php";
+        include "./views/home.php";
     }
 }
 

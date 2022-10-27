@@ -1,5 +1,5 @@
 <?php
-require_once "./controladores/contacto.controller.php";
+require_once "./controllers/contacto.controller.php";
 
 $home = new ControladorContacto();
 $home->getContacto();

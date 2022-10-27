@@ -3,7 +3,7 @@
 class ControladorContacto{
     public function getContacto()
     {
-        include "./vistas/contacto.php";
+        include "./views/contacto.php";
     }
 }
 

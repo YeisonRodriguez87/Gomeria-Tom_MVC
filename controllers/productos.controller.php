@@ -2,7 +2,7 @@
 class ControladorProductos{
     public function getProductos()
     {
-        include "./vistas/productos.php";
+        include "./views/productos.php";
     }
 }
 ?>
